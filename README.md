@@ -4,4 +4,4 @@ This Microsoft Azure template creates a container service with a Docker Swarm or
 
 Portal Launch Button|Container Service Type
 --- | --- | ---
-<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2OguzPastirmaci%2acs-swarm-full-template%2master%2azuredeploy.json" target="_blank"><img src="http://azuredeploy.net/deploybutton.png"/></a> (**Japan East Only**)|Swarm
+<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%F2OguzPastirmaci%2Facs-swarm-full-template%2Fmaster%2Fazuredeploy.json" target="_blank"><img src="http://azuredeploy.net/deploybutton.png"/></a> (**Japan East Only**)|Swarm
