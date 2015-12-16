@@ -12,6 +12,6 @@
     "value": "Standard_A1"
   },
   "sshRSAPublicKey": {
-    "value": ""
+    "value": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCgOSV52GPXpvpQUvtcafReqirYB23fn96dpLYqIHaILy46yfA1G93oFaw3vuqlrW7QeaS7T9cSWGGJAYDMe1vzUtF6rlgnwpkTTvZo9hM2Wu8RTBS+v9cf2V+a0MYd1R9BZuoUnZ5MSOt2X5wN0G2OlCyJFDrBQKO3fRGsKXPHeTI1rprHCeVFAnCnDJ0c8Nxa/cRg8HUnXyhd07zlWWbytTcEBYb/UrOGrOZDhUsG8RjpQjYVbdLXznxq7ZLBUSwlbmYAkZo4vzWytj7n+xz8jAiCkNhPlSqWgIjo4MzAkKdpjtp+3r2SGFm3TK2NO9aVN0xm/ecT5ZbGE6LcZ+eT oguzp@oguzp-agent3"
   }
 }
